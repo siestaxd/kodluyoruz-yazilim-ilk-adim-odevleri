@@ -26,8 +26,8 @@ Merhaba bu repoda kodluyoruz eğitimi bünyesi altında yaptığım ödevleri ya
       <tr>
           <td>3</td>
           <td>HTML ÖDEV 3</td>
-          <td></td>
-          <td>Yapılmadı</td>
+          <td>Yemek tarif sayfası</td>
+          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/HTML-ODEV-3"></td>
       </tr>
       <tr>
           <td>4</td>
