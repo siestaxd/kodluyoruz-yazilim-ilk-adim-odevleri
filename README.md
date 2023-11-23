@@ -45,4 +45,5 @@ Merhaba bu repoda kodluyoruz eğitimi bünyesi altında yaptığım ödevleri ya
 </table>
 
 # Yardımcı olabilicek siteler
-[html reference](https://htmlreference.io/)
+[htmlreference io](https://htmlreference.io/)
+[emmet io](https://emmet.io/)
