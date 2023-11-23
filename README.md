@@ -20,8 +20,8 @@ Merhaba bu repoda kodluyoruz eğitimi bünyesi altında yaptığım ödevleri ya
       <tr>
           <td>2</td>
           <td>HTML ÖDEV 2</td>
-          <td></td>
-          <td>Yapılmadı</td>
+          <td>Kişisel Sayfamızı Detaylandırmaya Devam Etmek</td>
+          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/HTML-ODEV-2">Yapıldı</a></td>
       </tr>
       <tr>
           <td>3</td>
