@@ -15,7 +15,7 @@ Merhaba bu repoda kodluyoruz eğitimi bünyesi altında yaptığım ödevleri ya
           <td>1</td>
           <td>HTML ÖDEV 1</td>
           <td>İlk Web Sayfamızı Oluşturmak</td>
-          <td><a href="">Yapıldı</a></td>
+          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/HTML-%C3%96DEV-1">Yapıldı</a></td>
       </tr>
       <tr>
           <td>2</td>
