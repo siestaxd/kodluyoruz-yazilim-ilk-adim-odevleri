@@ -1,0 +1,231 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: monospace;
+    background-color: #12161f;
+    color: #ECF2FF;
+    margin: 0;
+    padding: 0;
+    display: grid;
+}
+
+/* navbar */
+.navbar {
+    position: relative;
+    background-color: #B2A4FF;
+    font-weight: 400;
+    font-size: 0;
+    display: flex;
+    padding: 0;
+    width: 100%;
+    
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #0A2647;
+}
+
+.navbar .navbar-item {
+    font-size: 0.8rem;
+    display: inline-block;
+    position: relative;
+    padding: 0 100px;
+    cursor: pointer;
+    z-index: 5;
+    min-width: 25%;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar .navbar-item:hover {
+    border-bottom: 5px solid #6D67E4;
+}
+
+.navbar .textlogo {
+    font-family: 'Pacifico', cursive;
+    color: #0A2647;
+    font-size: 10px;
+    font-weight: 700;
+    min-width: 25%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+/* navbar end */
+
+/* main start*/
+.container {
+    display: flex;
+}
+
+/* main leftbar start */
+.container .left-bar {
+    width: 25%;
+    min-width: 25%;
+    min-height: 100vh;
+    background-color: #B2A4FF;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.left-bar .profile-photo {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.left-bar .name {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    color: #0A2647;
+}
+
+.left-bar .bio {
+    color: #12161f;
+    margin-top: 1px;
+    font-size: 1rem;
+}
+/* main leftbar end */
+
+/* main content start */
+.container .main-content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+.main-content h1 {
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.main-content p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+/* repo card */
+
+.card-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.main-content .card {
+    margin: 5px;
+    width: 290px;
+    max-width: 290px;
+    height: 90px;
+    background-color: #B2A4FF;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    backdrop-filter: blur(10px);
+    transition: 0.5s ease-in-out;
+}
+
+.main-content .card:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.main-content .card .card-img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-left: 10px;
+    border-radius: 10px;
+    background-color: #0A2647;
+}
+
+.main-content .card .card-textbox {
+    width: calc(100% - 90px);
+    margin-left: 10px;
+    color: #0A2647;
+}
+
+.main-content .card .card-textbox .header-text {
+    font-size: 16px;
+}
+
+.main-content .card .card-textbox .body-text {
+    font-size: 12px;
+    color: #12161f;
+}
+/* repo card end */
+
+/* skills card */
+
+.main-content .skills-card {
+    margin: 5px;
+    width: 150px;
+    height: 200px;
+    background-color: #B2A4FF;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(10px);
+    transition: 0.5s ease-in-out;
+}
+
+.main-content .skills-card:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+}
+
+.main-content .skills-card .skills-img {
+    width: 125px;
+    height: 125px;
+    margin-top: 50px;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #0A2647;
+    margin-top: 10px;
+}
+
+.main-content .skills-card .skills-img img {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.main-content .skills-card .skills-text {
+    font-size: 1rem;
+    color: #0A2647;
+}
+
+/* skills card end */
+
+/* main content end */
+/* main end */
+
+/* footer start */
+
+footer {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.8rem;
+    color: #fff;
+}
