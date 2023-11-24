@@ -15,7 +15,7 @@ Merhaba bu repoda kodluyoruz eğitimi bünyesi altında yaptığım ödevleri ya
           <td>1</td>
           <td>HTML ÖDEV 1</td>
           <td>İlk Web Sayfamızı Oluşturmak</td>
-          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/HTML-%C3%96DEV-1">Yapıldı</a></td>
+          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/HTML-ODEV-1">Yapıldı</a></td>
       </tr>
       <tr>
           <td>2</td>
@@ -32,14 +32,14 @@ Merhaba bu repoda kodluyoruz eğitimi bünyesi altında yaptığım ödevleri ya
       <tr>
           <td>4</td>
           <td>CSS ÖDEV 1</td>
-          <td></td>
-          <td>Yapılmadı</td>
+          <td>Kişisel web site</td>
+          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/CSS-ODEV-1">Yapıldı</a></td>
       </tr>
       <tr>
           <td>5</td>
           <td>CSS ÖDEV 2</td>
-          <td></td>
-          <td>Yapılmadı</td>
+          <td>Eski google arama sayfası</td>
+          <td><a href="https://github.com/siestaxd/kodluyoruz-yazilim-ilk-adim-odevleri/tree/main/CSS-ODEV-2">Yapıldı</a></td>
       </tr>
   </tbody>
 </table>
